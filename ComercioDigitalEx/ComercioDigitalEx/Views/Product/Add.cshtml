@@ -1,0 +1,34 @@
+﻿@model Product
+
+<div class="container">
+	<div class="row">
+		<h1 class="ms-4">Add Product</h1>
+		<hr />
+	</div>
+	
+	<form method="post">
+		<div class="row mb-2">
+			<label>Product Name</label>
+			<input asp-for="ProductName" class="form-control" />
+		</div>
+
+		<div class="row mb-2">
+			<label>Product Price</label>
+			<input asp-for="ProductPrice" class="form-control" />
+		</div>
+		
+		<div class="row mb-2">
+			<label>Product Quantity</label>
+			<input asp-for="ProductQty" class="form-control" />
+		</div>
+
+		<div class="row align-items-center mt-4">
+			<div class="col-auto">
+				<button type="submit" class="btn btn-success">Add Product</button>
+			</div>
+			<div class="col-auto">
+				<a asp-controller="Product" asp-action="Index" class="btn btn-secondary">Back to list</a>
+			</div>
+		</div>
+	</form>
+</div>

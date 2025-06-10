@@ -32,6 +32,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/USUARIO/Desktop/mvc/ComercioDigitalEx/ComercioDigitalEx/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/USUARIO/Desktop/mvc/ComercioDigitalEx/ComercioDigitalEx/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,6 +50,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/USUARIO/Desktop/mvc/ComercioDigitalEx/ComercioDigitalEx/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/mvc/ComercioDigitalEx/ComercioDigitalEx/Views/Product/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/mvc/ComercioDigitalEx/ComercioDigitalEx/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/mvc/ComercioDigitalEx/ComercioDigitalEx/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/mvc/ComercioDigitalEx/ComercioDigitalEx/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USUARIO/Desktop/mvc/ComercioDigitalEx/ComercioDigitalEx/Views/Shared/Error.cshtml]

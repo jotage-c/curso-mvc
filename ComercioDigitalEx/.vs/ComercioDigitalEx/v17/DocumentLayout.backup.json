@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|c:\\users\\usuario\\desktop\\mvc\\comerciodigitalex\\comerciodigitalex\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|solutionrelative:comerciodigitalex\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|c:\\users\\usuario\\desktop\\mvc\\comerciodigitalex\\comerciodigitalex\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|solutionrelative:comerciodigitalex\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|c:\\users\\usuario\\desktop\\mvc\\comerciodigitalex\\comerciodigitalex\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|solutionrelative:comerciodigitalex\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|c:\\users\\usuario\\desktop\\mvc\\comerciodigitalex\\comerciodigitalex\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|solutionrelative:comerciodigitalex\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|c:\\users\\usuario\\desktop\\mvc\\comerciodigitalex\\comerciodigitalex\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|solutionrelative:comerciodigitalex\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|c:\\users\\usuario\\desktop\\mvc\\comerciodigitalex\\comerciodigitalex\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|solutionrelative:comerciodigitalex\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|c:\\users\\usuario\\desktop\\mvc\\comerciodigitalex\\comerciodigitalex\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|solutionrelative:comerciodigitalex\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|c:\\users\\usuario\\desktop\\mvc\\comerciodigitalex\\comerciodigitalex\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|solutionrelative:comerciodigitalex\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|c:\\users\\usuario\\desktop\\mvc\\comerciodigitalex\\comerciodigitalex\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|solutionrelative:comerciodigitalex\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|c:\\users\\usuario\\desktop\\mvc\\comerciodigitalex\\comerciodigitalex\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27453056-1B92-4557-9BB6-568FA8ED7F93}|ComercioDigitalEx\\ComercioDigitalEx.csproj|solutionrelative:comerciodigitalex\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "ComercioDigitalEx\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Models\\Category.cs",
-              "RelativeToolTip": "ComercioDigitalEx\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T10:02:27.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ComercioDigitalEx\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "ComercioDigitalEx\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ComercioDigitalEx\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ComercioDigitalEx\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T01:49:15.976Z",
+              "WhenOpened": "2025-06-10T11:29:46.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "ComercioDigitalEx\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "ComercioDigitalEx\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAABdAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ComercioDigitalEx\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ComercioDigitalEx\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T00:21:02.957Z",
+              "WhenOpened": "2025-06-10T11:28:10.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ComercioDigitalEx\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ComercioDigitalEx\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T11:25:39.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "ComercioDigitalEx\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "ComercioDigitalEx\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA7wDYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T23:50:20.333Z",
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "ComercioDigitalEx\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "ComercioDigitalEx\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T11:23:19.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ComercioDigitalEx\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ComercioDigitalEx\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ComercioDigitalEx\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioDigitalEx\\ComercioDigitalEx\\Models\\Product.cs",
+              "RelativeToolTip": "ComercioDigitalEx\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T23:56:44.811Z",
+              "WhenOpened": "2025-06-10T11:23:50.188Z",
               "EditorCaption": ""
             }
           ]

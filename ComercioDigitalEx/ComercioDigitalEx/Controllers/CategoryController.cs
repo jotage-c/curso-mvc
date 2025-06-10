@@ -1,6 +1,7 @@
 ﻿using ComercioDigitalEx.Data;
 using ComercioDigitalEx.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace ComercioDigitalEx.Controllers
 {
@@ -53,6 +54,20 @@ namespace ComercioDigitalEx.Controllers
                 return NotFound();
             }
             _db.Categories.Update(obj);
+            _db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Delete(int id)
+        {
+            Category categoryFromDb = _db.Categories.Find(id);
+            return View(categoryFromDb);
+        }
+        [HttpPost,  ActionName("Delete")]
+        public IActionResult Deleting(int id)
+        {
+            Category categoryFromDb = _db.Categories.Find(id);
+            _db.Remove(categoryFromDb);
             _db.SaveChanges();
             return RedirectToAction("Index");
         }

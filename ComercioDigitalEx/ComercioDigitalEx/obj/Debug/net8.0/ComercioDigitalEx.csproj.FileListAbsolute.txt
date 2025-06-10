@@ -165,3 +165,4 @@ C:\Users\USUARIO\Desktop\mvc\ComercioDigitalEx\ComercioDigitalEx\obj\Debug\net8.
 C:\Users\USUARIO\Desktop\mvc\ComercioDigitalEx\ComercioDigitalEx\obj\Debug\net8.0\ComercioDigitalEx.pdb
 C:\Users\USUARIO\Desktop\mvc\ComercioDigitalEx\ComercioDigitalEx\obj\Debug\net8.0\ComercioDigitalEx.genruntimeconfig.cache
 C:\Users\USUARIO\Desktop\mvc\ComercioDigitalEx\ComercioDigitalEx\obj\Debug\net8.0\ref\ComercioDigitalEx.dll
+C:\Users\USUARIO\Desktop\mvc\ComercioDigitalEx\ComercioDigitalEx\obj\Debug\net8.0\ComercioDigitalEx.sourcelink.json
