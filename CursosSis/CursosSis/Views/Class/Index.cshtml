@@ -1,0 +1,43 @@
+﻿@model List<Class>
+
+<div class="container">
+	<div class="row align-items-center">
+		<div class="col-9">
+			<h1 class="py-3 ps-3">Manage Classes</h1>
+		</div>
+		<div class="col">
+			<a asp-controller="Class" asp-action="Create" class="btn btn-light">
+				<i class="bi bi-plus-square me-2"></i> Add Class
+			</a>
+		</div>
+		<hr />
+	</div>
+</div>
+
+<table class="table table-bordered table-striped">
+	<thead>
+		<th>Class Id</th>
+		<th>Course Id</th>
+		<th>Professor Id</th>
+		<th>Student Id</th>
+		<th>Actions</th>
+	</thead>
+
+	<tbody>
+	@foreach (var item in Model)
+	{
+		<tr>
+			<td>@item.ClassId</td>
+			<td>@item.CourseId</td>
+			<td>@item.ProfessorId</td>
+			<td>@item.StudentId</td>
+			<td>
+					<div class="row px-3">
+						<a href="#" class="btn btn-light btn-sm"><i class="bi bi-pen-fill pb-4"></i>Edit</a>
+						<a href="#" class="btn btn-danger btn-sm"><i class="bi bi-x-circle"></i>Delete</a>
+					</div>
+			</td>
+		</tr>
+	}
+	</tbody>
+</table>

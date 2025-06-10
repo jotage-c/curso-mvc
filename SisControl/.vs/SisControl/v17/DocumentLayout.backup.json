@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C809C4-ED59-4E31-B13A-A6F51B313F79}|SisControl\\SisControl.csproj|c:\\users\\usuario\\desktop\\mvc\\siscontrol\\siscontrol\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0C809C4-ED59-4E31-B13A-A6F51B313F79}|SisControl\\SisControl.csproj|solutionrelative:siscontrol\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C809C4-ED59-4E31-B13A-A6F51B313F79}|SisControl\\SisControl.csproj|c:\\users\\usuario\\desktop\\mvc\\siscontrol\\siscontrol\\views\\clients\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0C809C4-ED59-4E31-B13A-A6F51B313F79}|SisControl\\SisControl.csproj|solutionrelative:siscontrol\\views\\clients\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C809C4-ED59-4E31-B13A-A6F51B313F79}|SisControl\\SisControl.csproj|c:\\users\\usuario\\desktop\\mvc\\siscontrol\\siscontrol\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0C809C4-ED59-4E31-B13A-A6F51B313F79}|SisControl\\SisControl.csproj|solutionrelative:siscontrol\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisControl\\SisControl\\Views\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "SisControl\\Views\\Games\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisControl\\SisControl\\Views\\Games\\Index.cshtml",
+              "RelativeToolTip": "SisControl\\Views\\Games\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T01:12:04.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisControl\\SisControl\\Views\\Clients\\Add.cshtml",
+              "RelativeDocumentMoniker": "SisControl\\Views\\Clients\\Add.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisControl\\SisControl\\Views\\Clients\\Add.cshtml",
+              "RelativeToolTip": "SisControl\\Views\\Clients\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T01:07:17.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisControl\\SisControl\\Views\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "SisControl\\Views\\Clients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisControl\\SisControl\\Views\\Clients\\Index.cshtml",
+              "RelativeToolTip": "SisControl\\Views\\Clients\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T01:05:27.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

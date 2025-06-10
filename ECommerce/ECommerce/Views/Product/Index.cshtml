@@ -1,0 +1,40 @@
+﻿@model List<Product>
+
+    <div class="container pt-2">
+        <div class="row">
+            <div class="col-md-10 text-primary">
+                <h1>Product List</h1>
+            </div>
+            <div class="col-md-2">
+            <a asp-controller="Product" asp-action="Create" class="btn btn-success mt-3">
+                <i class="bi bi-plus-square me-2"></i> Adicionar Categoria
+            </a>
+            </div>
+        </div>
+
+    </div>
+
+    <hr />
+    <table class="table table-bordered table-striped">
+        <thead>
+            <th>Id</th>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Actions</th>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.NameProduct</td>
+                    <td>@item.Quantity</td>
+                    <td>
+                        <a href="#" class="btn btn-primary btn-sm"><i class="bi bi-pen-fill me-2"></i>Edit</a>
+                        <a href="#" class="btn btn-danger btn-sm"><i class="bi bi-x-circle me-2"></i>Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>

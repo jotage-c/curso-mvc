@@ -1,0 +1,30 @@
+﻿@model Professor
+
+<form method="post">
+	<div class="row">
+		<h1 class="pt-3 ps-4">Add Professor</h1>
+		<hr />
+	</div>
+
+	<div class="container">
+		<div class="mb-3">
+			<label>Professor Name</label>
+			<input asp-for="ProfessorName" class="form-control" />
+		</div>
+		<div class="mb-3">
+			<label>Professor Telephone Number</label>
+			<input asp-for="ProfessorTel" class="form-control" />
+		</div>
+		<div class="mb-3">
+			<label>Professor Email</label>
+			<input asp-for="ProfessorEmail" class="form-control" />
+		</div>
+		<div class="mb-3">
+			<label>Professor Work Period</label>
+			<input asp-for="ProfessorWorkPeriod" class="form-control" />
+		</div>
+
+		<button type="submit" class="btn btn-success">Add</button>
+		<a asp-controller="Professor" asp-action="Index" class="btn btn-dark">Back to List</a>
+	</div>
+</form>

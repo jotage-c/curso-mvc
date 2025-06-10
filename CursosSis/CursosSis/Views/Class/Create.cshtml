@@ -1,0 +1,27 @@
+﻿@model Class
+
+<form method="post">
+	<div class="row">
+		<h1 class="pt-3 ps-4">Add Class</h1>
+		<hr />
+	</div>
+
+	<div class="container">
+		<div class="mb-3">
+			<label>Class Course</label>
+			<input asp-for="CourseId" class="form-control"/>
+		</div>
+		<div class="mb-3">
+			<label>Class Professor</label>
+			<input asp-for="ProfessorId" class="form-control"/>
+		</div>
+		<div class="mb-3">
+			<label>Class Student</label>
+			<input asp-for="StudentId" class="form-control"/>
+			<p>Infelizmente, não soube, de jeito nenhum, como colocar mais de um aluno :(</p>
+		</div>
+
+		<button type="submit" class="btn btn-success">Add</button>
+		<a asp-controller="Class" asp-action="Index" class="btn btn-dark">Back to List</a>
+	</div>
+</form>

@@ -1,0 +1,56 @@
+header {
+    font-family: "IM Fell DW Pica SC", serif;
+}
+main {
+    font-family: "Crimson Pro", serif;
+    color: #1f1f1f !important;
+    background-color: #D4C2A5;
+}
+a {
+    text-decoration: none;
+}
+
+.header-top {
+    background-color: #F2E8D5;
+}
+.header-bottom {
+    background-color: #E3D5BA;
+}
+
+.titulo {
+    font-family: "IM Fell DW Pica SC", serif;
+}
+
+.bg2 {
+    background-color: #D4C2A5;
+}
+.bg3 {
+    color: #2B3A67;
+}
+
+.card {
+    width: 15vw;
+    height: 60vh;
+}
+.card-title {
+    font-size: clamp(1rem, 1.2vw, 1.5rem);
+    overflow-wrap: break-word;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.card-img-top {
+    object-fit: cover;
+    border-bottom-right-radius: 0.375rem;
+    border-bottom-left-radius: 0.375rem;
+}
+
+.preco-anterior {
+    font-family: "IM Fell DW Pica SC", serif !important;
+    text-decoration: line-through;
+    color: #A0A0A0;
+}
+.preco-atual {
+    font-family: "Crimson Pro", serif !important;
+    color: black;
+}
