@@ -1,0 +1,23 @@
+﻿@model Company
+
+	<div class="container">
+		<h1 class="ms-3">Pharmacy Manager</h1>
+		<hr />
+
+		<form method="post">
+			<label>Pharmacy Name</label>
+			<input asp-for="Name" class="form-control mb-3"/>
+			
+			<label>Pharmacy Address</label>
+			<input asp-for="Address" class="form-control mb-3" />
+
+			<label>Pharmacy Work Hour</label>
+			<input asp-for="WorkHour" class="form-control mb-3" />
+
+			<button type="submit" class="btn btn-success">Add Pharmacy</button>
+			<a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Return to List</a>
+		</form>
+	</div>
+		
+		
+	

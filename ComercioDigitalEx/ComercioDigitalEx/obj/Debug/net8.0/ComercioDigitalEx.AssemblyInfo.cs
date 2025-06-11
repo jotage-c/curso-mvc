@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComercioDigitalEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df2cc7b73c579e49c5d29f9c3fe301b18123a388")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74365ac498fe8d15037b4b2300775a248a6b339a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComercioDigitalEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComercioDigitalEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

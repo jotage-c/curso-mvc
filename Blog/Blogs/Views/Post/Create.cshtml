@@ -1,0 +1,23 @@
+﻿@model Blogs.Models.Post
+
+@{
+    ViewData["Title"] = "Novo Post";
+}
+
+<h2>Novo Post</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div>
+        <label>Nome:</label>
+        <input asp-for="PostAuthor" class="form-control" />
+    </div>
+    <div>
+        <label>Texto:</label>
+        <textarea asp-for="PostContent" class="form-control"></textarea>
+    </div>
+    <div>
+        <label>Imagem:</label>
+        <input type="file" name="imagem" class="form-control" />
+    </div>
+    <button type="submit">Salvar</button>
+</form>

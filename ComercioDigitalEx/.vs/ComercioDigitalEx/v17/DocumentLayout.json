@@ -55,8 +55,7 @@
               "RelativeToolTip": "ComercioDigitalEx\\Views\\Product\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T11:28:10.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T11:28:10.813Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "ComercioDigitalEx\\Views\\Product\\Delete.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T11:25:39.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T11:25:39.719Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "ComercioDigitalEx\\Views\\Product\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T11:23:19.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T11:23:19.904Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "ComercioDigitalEx\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:23:50.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T11:23:50.188Z"
             }
           ]
         }

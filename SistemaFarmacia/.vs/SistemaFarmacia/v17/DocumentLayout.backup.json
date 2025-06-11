@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\mvc\\SistemaFarmacia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB6C343-EA1B-4BD4-8A9F-C6935C452D60}|SistemaFarmacia\\SistemaFarmacia.csproj|c:\\users\\usuario\\desktop\\mvc\\sistemafarmacia\\sistemafarmacia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB6C343-EA1B-4BD4-8A9F-C6935C452D60}|SistemaFarmacia\\SistemaFarmacia.csproj|solutionrelative:sistemafarmacia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB6C343-EA1B-4BD4-8A9F-C6935C452D60}|SistemaFarmacia\\SistemaFarmacia.csproj|c:\\users\\usuario\\desktop\\mvc\\sistemafarmacia\\sistemafarmacia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB6C343-EA1B-4BD4-8A9F-C6935C452D60}|SistemaFarmacia\\SistemaFarmacia.csproj|solutionrelative:sistemafarmacia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB6C343-EA1B-4BD4-8A9F-C6935C452D60}|SistemaFarmacia\\SistemaFarmacia.csproj|c:\\users\\usuario\\desktop\\mvc\\sistemafarmacia\\sistemafarmacia\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBB6C343-EA1B-4BD4-8A9F-C6935C452D60}|SistemaFarmacia\\SistemaFarmacia.csproj|solutionrelative:sistemafarmacia\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB6C343-EA1B-4BD4-8A9F-C6935C452D60}|SistemaFarmacia\\SistemaFarmacia.csproj|c:\\users\\usuario\\desktop\\mvc\\sistemafarmacia\\sistemafarmacia\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB6C343-EA1B-4BD4-8A9F-C6935C452D60}|SistemaFarmacia\\SistemaFarmacia.csproj|solutionrelative:sistemafarmacia\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\SistemaFarmacia\\SistemaFarmacia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaFarmacia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\SistemaFarmacia\\SistemaFarmacia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaFarmacia\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:21:44.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\SistemaFarmacia\\SistemaFarmacia\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "SistemaFarmacia\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\SistemaFarmacia\\SistemaFarmacia\\Models\\Company.cs",
+              "RelativeToolTip": "SistemaFarmacia\\Models\\Company.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:18:53.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\SistemaFarmacia\\SistemaFarmacia\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "SistemaFarmacia\\Views\\Home\\Add.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\SistemaFarmacia\\SistemaFarmacia\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "SistemaFarmacia\\Views\\Home\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T01:14:38.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\SistemaFarmacia\\SistemaFarmacia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaFarmacia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\SistemaFarmacia\\SistemaFarmacia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaFarmacia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T00:47:41.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
