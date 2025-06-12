@@ -1,5 +1,6 @@
 ﻿@model List<Category>
-@if(TempData["success"] != null)
+@*
+if(TempData["success"] != null)
 {
     <div class="alert alert-dismissable alert-warning">
 		@TempData["success"]
@@ -7,6 +8,7 @@
     </div>
     
 }
+*@
 <div class="container pt-2">
         <div class="row">
             <div class="col-md-10 text-primary">
@@ -24,10 +26,12 @@
     <hr />
     <table class="table table-bordered table-striped">
         <thead>
-            <th>Id</th>
-            <th>Category Name</th>
-            <th>Display Order</th>
-            <th>Actions</th>
+            <tr>
+			    <th>Id</th>
+			    <th>Category Name</th>
+			    <th>Display Order</th>
+			    <th>Actions</th>
+            </tr>
         </thead>
 
         <tbody>

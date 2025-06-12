@@ -14,9 +14,9 @@ namespace ECommerce.Controllers
 
         public IActionResult Index()
         {
-            var objCategoryList = _db.Products.ToList();
+            var objProductList = _db.Products.ToList();
 
-            return View(objCategoryList);
+            return View(objProductList);
         }
 
         public IActionResult Create()
@@ -29,6 +29,63 @@ namespace ECommerce.Controllers
         {
             _db.Products.Add(obj);
             _db.SaveChanges();
+            TempData["success"] = "Product created successfully!";
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Edit(int id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+
+            Product productFromDb = _db.Products.Find(id);
+            if (productFromDb == null)
+            {
+                return NotFound();
+            }
+            return View(productFromDb);
+        }
+        [HttpPost]
+        public IActionResult Edit(Product obj)
+        {
+            if (obj == null)
+            {
+                return NotFound();
+            }
+            _db.Products.Update(obj);
+            _db.SaveChanges();
+            TempData["warning"] = "Product edited successfully!";
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Delete(int id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+
+            Product ProductFromDb = _db.Products.Find(id);
+            if (ProductFromDb == null)
+            {
+                return NotFound();
+            }
+            return View(ProductFromDb);
+        }
+        [HttpPost, ActionName("Delete")]
+        public IActionResult DeletePost(int id)
+        {
+            Product obj = _db.Products.Find(id);
+
+            if (id == null)
+            {
+                return NotFound();
+            }
+            _db.Products.Remove(obj);
+            _db.SaveChanges();
+            TempData["danger"] = "Product deleted successfully!";
             return RedirectToAction("Index");
         }
     }

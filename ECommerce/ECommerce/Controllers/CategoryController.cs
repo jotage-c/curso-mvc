@@ -66,7 +66,7 @@ namespace ECommerce.Controllers
             }
             _db.Categories.Update(obj);
             _db.SaveChanges();
-            TempData["success"] = "Category edited successfully!";
+            TempData["warning"] = "Category edited successfully!";
             return RedirectToAction("Index");
         }
 
@@ -95,7 +95,7 @@ namespace ECommerce.Controllers
             }
             _db.Categories.Remove(obj);
             _db.SaveChanges();
-            TempData["success"] = "Category deleted successfully!";
+            TempData["danger"] = "Category deleted successfully!";
             return RedirectToAction("Index");
         }
     }
