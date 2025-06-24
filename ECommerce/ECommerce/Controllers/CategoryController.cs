@@ -1,6 +1,7 @@
 ﻿using ECommerce.Data;
 using ECommerce.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Query;
 using System.Diagnostics.Metrics;
 
@@ -14,10 +15,21 @@ namespace ECommerce.Controllers
             _db = db;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(string busca, int pagina = 1, int tamanhoDaPagina = 2)
         {
-            var objCategoryList = _db.Categories.ToList();
+            //var objCategoryList = _db.Categories.ToList();
+            //return View(objCategoryList);
 
+            var objCategoryList = _db.Categories
+                .Where(c => string.IsNullOrEmpty(busca) || c.Name.Contains(busca))
+                .OrderBy(c => c.Name)
+                .Skip((pagina - 1) * tamanhoDaPagina)
+                .Take(tamanhoDaPagina)
+                .ToList();
+
+            ViewBag.TotalPaginas = (int)Math.Ceiling(pagina / (double)tamanhoDaPagina);
+            ViewBag.PaginaAtual = pagina;
+            ViewBag.Busca = busca;
             return View(objCategoryList);
         }
 

@@ -1,0 +1,43 @@
+﻿@model List<Rent>
+
+<h2>Veiculos Locações</h2>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Nova Locação</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Cliente</th>
+                <th>Veículo</th>
+                <th>Retirada</th>
+                <th>Prevista</th>
+                <th>Devolvida</th>
+                <th>Total</th>
+                <th>Multa</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Cliente?.Nome</td>
+                    <td>@item.Veiculo?.Modelo</td>
+                    <td>@item.DataRetirada.ToShortDateString()</td>
+                    <td>@item.DataDevolucaoPrevista.ToShortDateString()</td>
+                    <td>@(item.DataDevolvida?.ToShortDateString() ?? "-")</td>
+                    <td>@item.ValorTotal.ToString("C")</td>
+                    <td>@item.ValorMulta.ToString("C")</td>
+                    <td>
+                        @if (!item.DataDevolvida.HasValue)
+                        {
+                            <a asp-action="Devolver" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Devolver</a>
+                        }
+                        else
+                        {
+                            <span class="text-success">Devolvido em @item.DataDevolvida?.ToShortDateString()</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>

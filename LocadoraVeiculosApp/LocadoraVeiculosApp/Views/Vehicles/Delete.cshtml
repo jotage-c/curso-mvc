@@ -1,0 +1,8 @@
+﻿@model Vehicle
+<h2>Excluir Veículo</h2>
+<p>Tem certeza que deseja excluir o veículo <strong>@Model.Modelo</strong>?</p>
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit">Confirmar</button>
+    <a href="/Veiculos">Cancelar</a>
+</form>

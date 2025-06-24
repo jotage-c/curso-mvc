@@ -1,0 +1,21 @@
+﻿@{
+	string name = ViewBag.Name;
+	int? num = ViewBag.NumTimes;
+}
+
+<h1>This is the Welcome action method...</h1>
+
+<form method="post" class="form">
+	<label>Digit your name</label>
+	<input type="text" name="name"/>
+
+	<label>Digit a number</label>
+	<input type="number" name="numTimes" />
+
+	<button type="submit">Submit</button>
+</form>
+
+@if (!string.IsNullOrEmpty(name))
+{
+	<p>Hello @name, The number you digited is @num :)</p>
+}

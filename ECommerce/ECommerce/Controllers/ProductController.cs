@@ -12,11 +12,24 @@ namespace ECommerce.Controllers
             _db = db;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(string busca, int pagina = 1, int itensPorPag = 5)
         {
+            /*
             var objProductList = _db.Products.ToList();
-
             return View(objProductList);
+            */
+
+            var query = _db.Products
+                .Where(p => string.IsNullOrEmpty(busca) || p.NameProduct.Contains(busca))
+                .OrderBy(p => p.NameProduct) 
+                .Skip((pagina - 1) * itensPorPag)
+                .Take(itensPorPag)
+                .ToList();
+
+            ViewBag.TotalPaginas = (int)Math.Ceiling(pagina / (double)itensPorPag);
+            ViewBag.PaginaAtual = pagina;
+            ViewBag.Busca = busca;
+            return View(query);
         }
 
         public IActionResult Create()

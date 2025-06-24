@@ -1,0 +1,16 @@
+﻿@model Client
+
+<h2>Client Creation</h2>
+<form method="post">
+	<label asp-for="NameClient"></label>
+	<input asp-for="NameClient" class="form-control" />
+
+	<label asp-for="EmailClient"></label>
+	<input asp-for="EmailClient" class="form-control" />
+	
+	<label asp-for="TelephoneClient"></label>
+	<input asp-for="TelephoneClient" class="form-control" />
+
+	<button class="btn btn-success" type="submit">Create</button>
+	<a asp-controller="Client" asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>

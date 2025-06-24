@@ -1,0 +1,31 @@
+﻿@model List<Vehicle>
+<h2>Veículos</h2>
+<a href="/Vehicles/Create" class="btn btn-primary">Novo Veículo</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Modelo</th>
+            <th>Marca</th>
+            <th>Placa</th>
+            <th>Valor Diária</th>
+            <th>Locado?</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Modelo</td>
+                <td>@item.Marca</td>
+                <td>@item.Placa</td>
+                <td>@item.ValorDiaria.ToString("C")</td>
+                <td>@(item.EstaLocado ? "Sim" : "Não")</td>
+                <td>
+                    <a href="/Vehicles/Edit/@item.Id">Editar</a> |
+                    <a href="/Vehicles/Delete/@item.Id">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\mvc\\docasp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6997FA-0671-48A0-AF31-18D03A78F1AB}|docasp\\docasp.csproj|c:\\users\\usuario\\desktop\\mvc\\docasp\\docasp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6997FA-0671-48A0-AF31-18D03A78F1AB}|docasp\\docasp.csproj|solutionrelative:docasp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6997FA-0671-48A0-AF31-18D03A78F1AB}|docasp\\docasp.csproj|c:\\users\\usuario\\desktop\\mvc\\docasp\\docasp\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6997FA-0671-48A0-AF31-18D03A78F1AB}|docasp\\docasp.csproj|solutionrelative:docasp\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6997FA-0671-48A0-AF31-18D03A78F1AB}|docasp\\docasp.csproj|c:\\users\\usuario\\desktop\\mvc\\docasp\\docasp\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6997FA-0671-48A0-AF31-18D03A78F1AB}|docasp\\docasp.csproj|solutionrelative:docasp\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6997FA-0671-48A0-AF31-18D03A78F1AB}|docasp\\docasp.csproj|c:\\users\\usuario\\desktop\\mvc\\docasp\\docasp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6997FA-0671-48A0-AF31-18D03A78F1AB}|docasp\\docasp.csproj|solutionrelative:docasp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\docasp\\docasp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "docasp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\docasp\\docasp\\Models\\Movie.cs",
+              "RelativeToolTip": "docasp\\Models\\Movie.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:00:42.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\docasp\\docasp\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "docasp\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\docasp\\docasp\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "docasp\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T00:55:46.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\docasp\\docasp\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "docasp\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\docasp\\docasp\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "docasp\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwD4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T00:54:44.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\docasp\\docasp\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "docasp\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\docasp\\docasp\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "docasp\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswHoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:18:07.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

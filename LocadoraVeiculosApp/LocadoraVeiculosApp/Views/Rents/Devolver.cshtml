@@ -1,0 +1,23 @@
+﻿@model Rent
+
+@{
+    ViewData["Title"] = "Devolver Veículo";
+}
+
+<h2>Devolver Veículo</h2>
+
+<div>
+    <p><strong>Cliente:</strong> @Model.Cliente?.Nome</p>
+    <p><strong>Veículo:</strong> @Model.Veiculo?.Modelo</p>
+    <p><strong>Data Retirada:</strong> @Model.DataRetirada.ToShortDateString()</p>
+    <p><strong>Data Prevista:</strong> @Model.DataDevolucaoPrevista.ToShortDateString()</p>
+</div>
+
+<form asp-action="DevolverConfirmado" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <p>Deseja registrar a devolução agora?</p>
+    <button type="submit" class="btn btn-success">Confirmar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+

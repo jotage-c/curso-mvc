@@ -1,0 +1,68 @@
+﻿@model Vehicle
+<!--
+	post não mostra os dados pegos no url apesar de ser bem mais lento,
+	o get mostra e é bem mais rápido.
+	mexendo sem login, use o post por questões de segurança
+-->
+<form method="post">
+	<div class="border p-3 mt-4">
+		<div class="row">
+			<h1 class="mb-4 ms-3">Create Vehicle</h1>
+			<hr />
+		</div>
+		<div asp-validation-summary="All"></div>
+
+		<div class="mb-3">
+			<label asp-for="VehicleModel"></label>
+			<input asp-for="VehicleModel" class="form-control" disabled />
+			<span asp-validation-for="VehicleModel" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="VehicleType"></label>
+			<input asp-for="VehicleType" class="form-control" disabled />
+			<span asp-validation-for="VehicleType" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="VehiclePlate"></label>
+			<input asp-for="VehiclePlate" class="form-control" disabled />
+			<span asp-validation-for="VehiclePlate" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="VehiclePrice"></label>
+			<input asp-for="VehiclePrice" class="form-control" disabled />
+			<span asp-validation-for="VehiclePrice" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="VehicleWasRented"></label>
+			<input asp-for="VehicleWasRented" class="form-control" />
+			<span asp-validation-for="VehicleWasRented" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="ClientIdRented" class="form-label"></label>
+
+			<div class="form-check">
+				<input class="form-check-input" asp-for="ClientIdRented" type="radio" value="1" id="client1" />
+				<label class="form-check-label" for="client1">Cliente 1</label>
+			</div>
+
+			<div class="form-check">
+				<input class="form-check-input" asp-for="ClientIdRented" type="radio" value="2" id="client2" />
+				<label class="form-check-label" for="client2">Cliente 2</label>
+			</div>
+
+			<span asp-validation-for="ClientIdRented" class="text-danger"></span>
+		</div>
+
+
+		<div class="row">
+			<div class="col-6">
+				<button type="submit" class="btn btn-primary form-control">Create</button>
+			</div>
+			<div class="col-6">
+				<a asp-controller="Vehicle" asp-action="Index" class="btn btn-secondary form-control">
+					Back to List
+				</a>
+			</div>
+		</div>
+	</div>
+</form>

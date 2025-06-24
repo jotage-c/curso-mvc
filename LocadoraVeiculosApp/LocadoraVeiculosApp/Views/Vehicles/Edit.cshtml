@@ -1,0 +1,11 @@
+﻿@model Vehicle
+<h2>Editar Veículo</h2>
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <div><label>Modelo</label><input asp-for="Modelo" /></div>
+    <div><label>Marca</label><input asp-for="Marca" /></div>
+    <div><label>Placa</label><input asp-for="Placa" /></div>
+    <div><label>Valor Diária</label><input asp-for="ValorDiaria" type="number" step="0.01" /></div>
+    <div><label>Locado?</label><input asp-for="EstaLocado" type="checkbox" /></div>
+    <button type="submit">Salvar</button>
+</form>

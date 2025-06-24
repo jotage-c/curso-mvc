@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\mvc\\LocadoraReposDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC29DD8E-E5BC-48D4-ABF6-45FD5F10193B}|LocadoraReposDesign\\LocadoraReposDesign.csproj|c:\\users\\usuario\\desktop\\mvc\\locadorareposdesign\\locadorareposdesign\\ui\\menuconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC29DD8E-E5BC-48D4-ABF6-45FD5F10193B}|LocadoraReposDesign\\LocadoraReposDesign.csproj|solutionrelative:locadorareposdesign\\ui\\menuconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC29DD8E-E5BC-48D4-ABF6-45FD5F10193B}|LocadoraReposDesign\\LocadoraReposDesign.csproj|c:\\users\\usuario\\desktop\\mvc\\locadorareposdesign\\locadorareposdesign\\services\\locacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC29DD8E-E5BC-48D4-ABF6-45FD5F10193B}|LocadoraReposDesign\\LocadoraReposDesign.csproj|solutionrelative:locadorareposdesign\\services\\locacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC29DD8E-E5BC-48D4-ABF6-45FD5F10193B}|LocadoraReposDesign\\LocadoraReposDesign.csproj|c:\\users\\usuario\\desktop\\mvc\\locadorareposdesign\\locadorareposdesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC29DD8E-E5BC-48D4-ABF6-45FD5F10193B}|LocadoraReposDesign\\LocadoraReposDesign.csproj|solutionrelative:locadorareposdesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC29DD8E-E5BC-48D4-ABF6-45FD5F10193B}|LocadoraReposDesign\\LocadoraReposDesign.csproj|c:\\users\\usuario\\desktop\\mvc\\locadorareposdesign\\locadorareposdesign\\ui\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC29DD8E-E5BC-48D4-ABF6-45FD5F10193B}|LocadoraReposDesign\\LocadoraReposDesign.csproj|solutionrelative:locadorareposdesign\\ui\\simulador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC29DD8E-E5BC-48D4-ABF6-45FD5F10193B}|LocadoraReposDesign\\LocadoraReposDesign.csproj|c:\\users\\usuario\\desktop\\mvc\\locadorareposdesign\\locadorareposdesign\\domain\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC29DD8E-E5BC-48D4-ABF6-45FD5F10193B}|LocadoraReposDesign\\LocadoraReposDesign.csproj|solutionrelative:locadorareposdesign\\domain\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Simulador.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\LocadoraReposDesign\\LocadoraReposDesign\\UI\\Simulador.cs",
+              "RelativeDocumentMoniker": "LocadoraReposDesign\\UI\\Simulador.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\LocadoraReposDesign\\LocadoraReposDesign\\UI\\Simulador.cs",
+              "RelativeToolTip": "LocadoraReposDesign\\UI\\Simulador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:48:52.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuConsole.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\LocadoraReposDesign\\LocadoraReposDesign\\UI\\MenuConsole.cs",
+              "RelativeDocumentMoniker": "LocadoraReposDesign\\UI\\MenuConsole.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\LocadoraReposDesign\\LocadoraReposDesign\\UI\\MenuConsole.cs",
+              "RelativeToolTip": "LocadoraReposDesign\\UI\\MenuConsole.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAMwEYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:41:47.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\LocadoraReposDesign\\LocadoraReposDesign\\Domain\\Veiculo.cs",
+              "RelativeDocumentMoniker": "LocadoraReposDesign\\Domain\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\LocadoraReposDesign\\LocadoraReposDesign\\Domain\\Veiculo.cs",
+              "RelativeToolTip": "LocadoraReposDesign\\Domain\\Veiculo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:33:39.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\LocadoraReposDesign\\LocadoraReposDesign\\Services\\LocacaoService.cs",
+              "RelativeDocumentMoniker": "LocadoraReposDesign\\Services\\LocacaoService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\LocadoraReposDesign\\LocadoraReposDesign\\Services\\LocacaoService.cs",
+              "RelativeToolTip": "LocadoraReposDesign\\Services\\LocacaoService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswHwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:51:08.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\LocadoraReposDesign\\LocadoraReposDesign\\Program.cs",
+              "RelativeDocumentMoniker": "LocadoraReposDesign\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\LocadoraReposDesign\\LocadoraReposDesign\\Program.cs",
+              "RelativeToolTip": "LocadoraReposDesign\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:55:38.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
