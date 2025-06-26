@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\mvc\\ChamadosApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{328E9EF4-EA0D-489E-AC55-90F5CDBD5287}|ChamadosApp\\ChamadosApp.csproj|c:\\users\\usuario\\desktop\\mvc\\chamadosapp\\chamadosapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{328E9EF4-EA0D-489E-AC55-90F5CDBD5287}|ChamadosApp\\ChamadosApp.csproj|solutionrelative:chamadosapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{328E9EF4-EA0D-489E-AC55-90F5CDBD5287}|ChamadosApp\\ChamadosApp.csproj|c:\\users\\usuario\\desktop\\mvc\\chamadosapp\\chamadosapp\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{328E9EF4-EA0D-489E-AC55-90F5CDBD5287}|ChamadosApp\\ChamadosApp.csproj|solutionrelative:chamadosapp\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ChamadosApp\\ChamadosApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ChamadosApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ChamadosApp\\ChamadosApp\\appsettings.json",
+              "RelativeToolTip": "ChamadosApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T22:54:30.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ChamadosApp\\ChamadosApp\\Views\\Client\\Delete.cshtml",
               "RelativeDocumentMoniker": "ChamadosApp\\Views\\Client\\Delete.cshtml",
@@ -42,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClientController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ChamadosApp\\ChamadosApp\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "ChamadosApp\\Controllers\\ClientController.cs",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ChamadosApp\\ChamadosApp\\Models\\Client.cs",
               "RelativeDocumentMoniker": "ChamadosApp\\Models\\Client.cs",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ChamadosApp\\ChamadosApp\\Views\\Client\\Index.cshtml",
               "RelativeDocumentMoniker": "ChamadosApp\\Views\\Client\\Index.cshtml",

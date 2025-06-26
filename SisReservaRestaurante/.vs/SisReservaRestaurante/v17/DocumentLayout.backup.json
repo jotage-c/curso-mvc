@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisReservaRestaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B04FE3C-9AA2-4F10-AF9B-B72832C76E92}|SisReservaRestaurante\\SisReservaRestaurante.csproj|c:\\users\\usuario\\desktop\\mvc\\sisreservarestaurante\\sisreservarestaurante\\views\\reserva\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B04FE3C-9AA2-4F10-AF9B-B72832C76E92}|SisReservaRestaurante\\SisReservaRestaurante.csproj|solutionrelative:sisreservarestaurante\\views\\reserva\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B04FE3C-9AA2-4F10-AF9B-B72832C76E92}|SisReservaRestaurante\\SisReservaRestaurante.csproj|c:\\users\\usuario\\desktop\\mvc\\sisreservarestaurante\\sisreservarestaurante\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B04FE3C-9AA2-4F10-AF9B-B72832C76E92}|SisReservaRestaurante\\SisReservaRestaurante.csproj|solutionrelative:sisreservarestaurante\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B04FE3C-9AA2-4F10-AF9B-B72832C76E92}|SisReservaRestaurante\\SisReservaRestaurante.csproj|c:\\users\\usuario\\desktop\\mvc\\sisreservarestaurante\\sisreservarestaurante\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B04FE3C-9AA2-4F10-AF9B-B72832C76E92}|SisReservaRestaurante\\SisReservaRestaurante.csproj|solutionrelative:sisreservarestaurante\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisReservaRestaurante\\SisReservaRestaurante\\Views\\Reserva\\Index.cshtml",
+              "RelativeDocumentMoniker": "SisReservaRestaurante\\Views\\Reserva\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisReservaRestaurante\\SisReservaRestaurante\\Views\\Reserva\\Index.cshtml",
+              "RelativeToolTip": "SisReservaRestaurante\\Views\\Reserva\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T17:56:10.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisReservaRestaurante\\SisReservaRestaurante\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "SisReservaRestaurante\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisReservaRestaurante\\SisReservaRestaurante\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "SisReservaRestaurante\\Controllers\\ReservaController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:54:43.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisReservaRestaurante\\SisReservaRestaurante\\Views\\Reserva\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SisReservaRestaurante\\Views\\Reserva\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\SisReservaRestaurante\\SisReservaRestaurante\\Views\\Reserva\\Delete.cshtml",
+              "RelativeToolTip": "SisReservaRestaurante\\Views\\Reserva\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T17:53:03.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

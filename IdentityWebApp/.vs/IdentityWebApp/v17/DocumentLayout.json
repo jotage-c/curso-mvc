@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\mvc\\IdentityWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{627B99D8-6F28-430C-A5EC-4F8E40D74234}|IdentityWebApp\\IdentityWebApp.csproj|c:\\users\\usuario\\desktop\\mvc\\identitywebapp\\identitywebapp\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627B99D8-6F28-430C-A5EC-4F8E40D74234}|IdentityWebApp\\IdentityWebApp.csproj|solutionrelative:identitywebapp\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627B99D8-6F28-430C-A5EC-4F8E40D74234}|IdentityWebApp\\IdentityWebApp.csproj|c:\\users\\usuario\\desktop\\mvc\\identitywebapp\\identitywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627B99D8-6F28-430C-A5EC-4F8E40D74234}|IdentityWebApp\\IdentityWebApp.csproj|solutionrelative:identitywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627B99D8-6F28-430C-A5EC-4F8E40D74234}|IdentityWebApp\\IdentityWebApp.csproj|c:\\users\\usuario\\desktop\\mvc\\identitywebapp\\identitywebapp\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627B99D8-6F28-430C-A5EC-4F8E40D74234}|IdentityWebApp\\IdentityWebApp.csproj|solutionrelative:identitywebapp\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\IdentityWebApp\\IdentityWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\IdentityWebApp\\IdentityWebApp\\Program.cs",
+              "RelativeToolTip": "IdentityWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:17:13.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\IdentityWebApp\\IdentityWebApp\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "IdentityWebApp\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\IdentityWebApp\\IdentityWebApp\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "IdentityWebApp\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:06:41.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelatorioController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\IdentityWebApp\\IdentityWebApp\\Controllers\\RelatorioController.cs",
+              "RelativeDocumentMoniker": "IdentityWebApp\\Controllers\\RelatorioController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\IdentityWebApp\\IdentityWebApp\\Controllers\\RelatorioController.cs",
+              "RelativeToolTip": "IdentityWebApp\\Controllers\\RelatorioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:06:11.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

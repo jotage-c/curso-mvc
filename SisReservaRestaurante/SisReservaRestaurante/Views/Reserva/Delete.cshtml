@@ -1,0 +1,33 @@
+﻿@model Reserva
+@{
+	int numLugares = Model.NomeClientes.Count;
+}
+
+<div class="container">
+	<div class="row">
+		<div class="col">
+			<h1 class="ms-3">Criar Reserva</h1>
+			<hr />
+		</div>
+
+		<form method="post">
+
+			<label>No da Mesa</label>
+			<input asp-for="IdMesa" class="form-control" readonly />
+
+			<label>No de Clientes</label>
+			<input asp-for="NumeroClientes" class="form-control" readonly />
+
+			<label>Horário</label>
+			<input asp-for="Horario" class="form-control" readonly />
+
+			<label>Nome dos Clientes</label>
+			@for (int i = 0; i < numLugares; i++)
+			{
+				<input asp-for="NomeClientes[@i]" class="form-control" readonly />
+			}
+
+			<button type="submit" class="btn btn-danger">Submit</button>
+		</form>
+	</div>
+</div>
