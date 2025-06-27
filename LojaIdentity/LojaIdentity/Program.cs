@@ -12,6 +12,8 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 
+builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
 // 3. Adiciona os serviços do Identity
 // Usamos AddIdentity (e não AddDefaultIdentity) para ter controle total
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(options => {

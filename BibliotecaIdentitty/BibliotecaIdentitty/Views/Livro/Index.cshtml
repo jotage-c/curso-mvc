@@ -1,0 +1,47 @@
+﻿@model IEnumerable<BibliotecaIdentitty.Models.Livro>
+
+@{
+    ViewData["Title"] = "Lista de Livros";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create">Criar Novo Livro</a>
+    </p>
+}
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Id)</th>
+            <th>@Html.DisplayNameFor(model => model.Titulo)</th>
+            <th>@Html.DisplayNameFor(model => model.Autor)</th>
+            @if (User.IsInRole("Admin"))
+            {
+                <th>Ações</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Id)</th>
+                <th>@Html.DisplayNameFor(model => model.Titulo)</th>
+                <th>@Html.DisplayNameFor(model => model.Autor)</th>
+                @if (User.IsInRole("Admin"))
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+

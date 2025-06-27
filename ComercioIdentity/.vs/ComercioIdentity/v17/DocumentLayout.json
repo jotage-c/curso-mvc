@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4774F775-3BBF-4370-BEB6-2D12E9108517}|ComercioIdentity\\ComercioIdentity.csproj|c:\\users\\usuario\\desktop\\mvc\\comercioidentity\\comercioidentity\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4774F775-3BBF-4370-BEB6-2D12E9108517}|ComercioIdentity\\ComercioIdentity.csproj|solutionrelative:comercioidentity\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4774F775-3BBF-4370-BEB6-2D12E9108517}|ComercioIdentity\\ComercioIdentity.csproj|c:\\users\\usuario\\desktop\\mvc\\comercioidentity\\comercioidentity\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4774F775-3BBF-4370-BEB6-2D12E9108517}|ComercioIdentity\\ComercioIdentity.csproj|solutionrelative:comercioidentity\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4774F775-3BBF-4370-BEB6-2D12E9108517}|ComercioIdentity\\ComercioIdentity.csproj|c:\\users\\usuario\\desktop\\mvc\\comercioidentity\\comercioidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4774F775-3BBF-4370-BEB6-2D12E9108517}|ComercioIdentity\\ComercioIdentity.csproj|solutionrelative:comercioidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4774F775-3BBF-4370-BEB6-2D12E9108517}|ComercioIdentity\\ComercioIdentity.csproj|c:\\users\\usuario\\desktop\\mvc\\comercioidentity\\comercioidentity\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4774F775-3BBF-4370-BEB6-2D12E9108517}|ComercioIdentity\\ComercioIdentity.csproj|solutionrelative:comercioidentity\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioIdentity\\ComercioIdentity\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "ComercioIdentity\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioIdentity\\ComercioIdentity\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "ComercioIdentity\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T00:15:55.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioIdentity\\ComercioIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ComercioIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioIdentity\\ComercioIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ComercioIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T00:05:47.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioIdentity\\ComercioIdentity\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "ComercioIdentity\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioIdentity\\ComercioIdentity\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "ComercioIdentity\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T00:00:54.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioIdentity\\ComercioIdentity\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "ComercioIdentity\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\mvc\\ComercioIdentity\\ComercioIdentity\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "ComercioIdentity\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAE8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T23:47:36.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

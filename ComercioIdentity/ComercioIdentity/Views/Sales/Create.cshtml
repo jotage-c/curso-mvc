@@ -1,0 +1,38 @@
+﻿@model List<ComercioIdentity.Models.SaleItem>
+
+@{
+    ViewData["Title"] = "Registrar Venda";
+    var products = ViewBag.Products as List<ComercioIdentity.Models.Product>;
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Produto</th>
+                <th>Preço Unitário</th>
+                <th>Quantidade</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < products.Count; i++)
+            {
+                <tr>
+                    <td>
+                        @products[i].Name
+                        <input type="hidden" name="[@i].ProductId" value="@products[i].Id" />
+                    </td>
+                    <td>@products[i].Price.ToString("C")</td>
+                    <td>
+                        <input type="number" min="0" name="[@i].Quantity" value="0" class="form-control" />
+                    </td>
+                    <input type="hidden" name="[@i].UnitPrice" value="@products[i].Price" />
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-primary">Registrar Venda</button>
+</form>
